@@ -1,4 +1,0 @@
-INDEX VERSION 1.126+C:\source\Social.Android\.metadata\.plugins\org.eclipse.jdt.core
-410511748.index
-3979862886.index
-3443070738.index
